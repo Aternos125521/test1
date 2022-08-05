@@ -1,0 +1,9 @@
+{
+	"ip":"io2022.aternos.me",
+	"port": 36307,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register abcd123456789 123456789",
+	"login-cmd":"/login abcd123456789"
+}
